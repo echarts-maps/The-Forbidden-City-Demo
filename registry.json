@@ -1,5 +1,5 @@
 {
-    "GITHUB_URL": "http://localhost:8000",
+    "GITHUB_URL": "https://echarts-maps.github.io/The-Forbidden-City-Demo",
     "JS_FOLDER": "/",
     "PINYIN_MAP": {
          "The Forbidden City": "The-Forbidden-City"
