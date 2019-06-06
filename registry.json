@@ -1,6 +1,10 @@
 {
     "JS_FOLDER": "/",
+    "PINYIN_MAP": {
+        "紫禁城": "The-Forbidden-City-zh"
+    },
     "FILE_MAP": {
-         "The Forbidden City": "The-Forbidden-City"
+        "The Forbidden City": "The-Forbidden-City",
+        "The-Forbidden-City-zh": "The-Forbidden-City-zh"
     }
 }
